@@ -20,7 +20,7 @@ self find <id>
 ```cmd
 self find all
 ```
-### Item search 
+### Item search
 ```cmd
 self search <key> <value>
 ```
